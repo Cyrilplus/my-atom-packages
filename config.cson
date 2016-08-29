@@ -1,0 +1,33 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "1a5d045c-e85e-420f-a9b0-fca42a0d9ac1"
+  "autocomplete-python":
+    extraPaths: "/Users/yonie/miniconda2/envs/django/lib/python2.7/site-packages;/Users/yonie/miniconda2/lib/python2.7/site-packages"
+    pythonPaths: "/Users/yonie/miniconda2/envs/django/bin/python;/Users/yonie/miniconda2/bin/python"
+    useSnippets: "all"
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ""
+    ]
+    openEmptyEditorOnStart: false
+  editor:
+    fontFamily: "Monaco"
+    fontSize: 13
+    invisibles: {}
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "4060ffda-9d61-6c11-409a-fbe77907304f"
+  "terminal-plus":
+    core:
+      mapTerminalsToAutoOpen: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

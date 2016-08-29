@@ -1,0 +1,34 @@
+{
+  "name": "language-django",
+  "version": "0.1.1",
+  "description": "Package to coding Django Projects with Atom.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsondev/atom-language-django.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/gilsondev/atom-language-django/issues"
+  },
+  "readme": "Language Django\n===========\n\nPackage to Atom Editor to improve Django development. This package was based in bundle Django of the TextMate.\n\nLicense: GPLv2\n",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/gilsondev/atom-language-django#readme",
+  "_id": "language-django@0.1.1",
+  "_shasum": "3131918bdfe827e17fac86f876aba21764c453a8",
+  "_resolved": "file:../d-116729-18944-pnqum3/package.tgz",
+  "_from": "../d-116729-18944-pnqum3/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
